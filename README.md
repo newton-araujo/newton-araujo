@@ -1,6 +1,6 @@
-# Ola! Eu sou o Newton Araujo 👋
+# Olá! Eu sou o Newton Araujo 👋
 💻Cursando Front-end na DIO.me <br>
-📚Engenharia de Software.<br>
+📚Engenharia de Software (<i>2º Semestre</i>).<br>
 🎮Video Game nas horas vagas.<br>
 
 ## Rede Sociais:
