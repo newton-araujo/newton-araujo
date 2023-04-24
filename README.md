@@ -6,9 +6,12 @@
 ## Rede Sociais:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/newtondepaulaaraujo-297867256/) [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/newton.araujo/) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/newtonaraujo_of/)
 
-![newton GitHub stats](https://github-readme-stats.vercel.app/api?username=newton-araujo&show_icons=true&theme=dracula)
-
-
+<div>
+  <a href="https://github.com/newton-araujo">
+    
+  <img width="41%" src="https://github-readme-stats.vercel.app/api?username=newton-araujo&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newton-araujo&layout=compact&langs_count=16&theme=radical"/>
+      </div>
 # Tecnologias que eu uso no meu dia 💻.
 <div style= "display: inline-block; margin-right: 10px;"><br>
     <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
