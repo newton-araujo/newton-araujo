@@ -9,8 +9,9 @@
 <div>
   <a href="https://github.com/newton-araujo">
     
-  <img width="41%" src="https://github-readme-stats.vercel.app/api?username=newton-araujo&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newton-araujo&layout=compact&langs_count=16&theme=radical"/>
+![](https://github-readme-stats.vercel.app/api?username=newton-araujo&theme=swift&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=newton-araujo&theme=swift&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=newton-araujo&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
       </div>
 # Tecnologias que eu uso no meu dia 💻.
 <div style= "display: inline-block; margin-right: 10px;"><br>
