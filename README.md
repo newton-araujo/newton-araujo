@@ -4,7 +4,7 @@
 
 Como criador do DevLevelUp, meu cantinho para crescimento profissional, estou sempre buscando novos desafios! 
 
-🎮 Nas horas vagas, sou um gamer entusiasta. Ah, e falando em códigos, estudo Python, SQL, POWER BI e JavaScript.
+🎮 Nas horas vagas, sou um gamer entusiasta. Ah, e falando em códigos, tenho conhecimento solido em Python, SQL, JavaScript e desenvolvimento Web.
 
 Vamos juntos elevar o nível do desenvolvimento! 🚀 🌐
 
