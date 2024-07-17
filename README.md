@@ -12,16 +12,11 @@ Vamos juntos elevar o nível do desenvolvimento! 🚀 🌐
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/newtondepaulaaraujo-297867256/) [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/newton.araujo/) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/newtonaraujo_of/)
 
 <div>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://media2.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif?cid=ecf05e47sh4porccu4yu85z6m9ue7pb9be0iqtddrm6qudwt&ep=v1_gifs_related&rid=giphy.gif&ct=s">
-    <source media="(prefers-color-scheme: light)" srcset="https://media2.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif?cid=ecf05e47sh4porccu4yu85z6m9ue7pb9be0iqtddrm6qudwt&ep=v1_gifs_related&rid=giphy.gif&ct=s">
-    <img align="right" alt="GIF" src=""  width="375px" height="230"/>
-  </picture> 
-</div>
-<br>
-<div>
   <a href="https://github.com/newton-araujo">
-    
+    <div align="center">
+    <img height="150em" src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=newton-araujo&hide=contribs,issues&rank_icon=github&hide_border=true&show_icons=true&icon_color=ffc222&bg_color=72090A&title_color=ffc222&text_color=fff&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=newton-araujo&hide=jinja,css,html&hide_border=true&show_icons=true&bg_color=72090A&title_color=ffc222&text_color=fff&layout=compact&langs_count=7"/>
+  </div>
 
 
   </div>
