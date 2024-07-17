@@ -20,7 +20,7 @@ Vamos juntos elevar o nível do desenvolvimento! 🚀 🌐
 
 
   </div>
-# Tecnologias que eu uso no meu dia 💻.
+<h2>Tecnologias que eu uso no meu dia 💻.</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
