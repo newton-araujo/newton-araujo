@@ -14,11 +14,12 @@ Vamos juntos elevar o nível do desenvolvimento! 🚀 🌐
 <div>
   <a href="https://github.com/newton-araujo">
     
-![](https://github-readme-stats.vercel.app/api?username=newton-araujo&theme=swift&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=newton-araujo&theme=swift&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=newton-araujo&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=newton-araujo&theme=swift&hide_border=false&include_all_commits=true&count_private=true)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=newton-araujo&theme=swift&hide_border=false)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=newton-araujo&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
 
-      </div>
+
+  </div>
 # Tecnologias que eu uso no meu dia 💻.
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
