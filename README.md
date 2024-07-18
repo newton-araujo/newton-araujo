@@ -12,22 +12,13 @@ Vamos juntos elevar o nível do desenvolvimento! 🚀 🌐
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/newtondepaulaaraujo-297867256/) [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/newton.araujo/) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/newtonaraujo_of/)
 
 <div>
-  <a href="https://github.com/newton-araujo">
-    <div align="center">
-    <img height="150em" src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=newton-araujo&hide=contribs,issues&rank_icon=github&hide_border=true&show_icons=true&icon_color=ffc222&bg_color=72090A&title_color=ffc222&text_color=fff&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=newton-araujo&hide=jinja,css,html&hide_border=true&show_icons=true&bg_color=72090A&title_color=ffc222&text_color=fff&layout=compact&langs_count=7"/>
-  </div>
+<h3>📊 GitHub Stats:</h3>
+  
+![](https://github-readme-stats.vercel.app/api?username=newton-araujo&theme=swift&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=newton-araujo&theme=swift&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=newton-araujo&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-  </div>
-<h2>Tecnologias que eu uso no meu dia 💻.</h2>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  <img align="center" alt="CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-  <img align="center" alt="CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-  <img align="center" alt="CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" />
-  <img align="center" alt="CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-  <img align="center" alt="CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+## 🏆 GitHub 
+![](https://github-profile-trophy.vercel.app/?username=newton-araujo&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 </div>
-<br><br>
+
