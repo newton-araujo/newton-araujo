@@ -45,7 +45,12 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=newton-araujo&theme=tokyonight&hide_border=false)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newton-araujo&layout=compact&theme=tokyonight&hide_border=false)
+![Profile Card](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=newton-araujo&theme=tokyonight)
+![Profile Card](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=newton-araujo&theme=tokyonight)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=newton-araujo&theme=tokyo-night)
+
+
 
 </div>
 
