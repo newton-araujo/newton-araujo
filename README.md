@@ -1,24 +1,62 @@
-<h1>👋 E aí, eu sou Newton!</h1> 
+<h1 align="center">👋 Fala aí, eu sou o Newton!</h1>
 
-🚀 Movido pela paixão pela tecnologia, estou no 3º semestre de Engenharia de Software, explorando o incrível universo do desenvolvimento de software. 💡 Atualmente, dou um up no meu inglês (nível intermediário) e me jogo em um bootcamp da DIO, uma jornada intensa de aprendizado.
+<p align="center">
+  🚀 Apaixonado por tecnologia, estou no <strong>3º semestre de Engenharia de Software</strong> e sempre em busca de evolução constante no universo do desenvolvimento. <br>
+  💬 Atualmente mergulhado em um <strong>bootcamp da DIO</strong> e aprimorando meu inglês (nível intermediário). <br>
+  💡 Fundador do <strong>DevLevelUp</strong>, um espaço dedicado ao crescimento profissional de devs como eu e você!
+</p>
 
-Como criador do DevLevelUp, meu cantinho para crescimento profissional, estou sempre buscando novos desafios! 
+---
 
-🎮 Nas horas vagas, sou um gamer entusiasta. Ah, e falando em códigos, tenho conhecimento solido em Python, SQL, JavaScript e desenvolvimento Web.
+## 🧠 Sobre mim
 
-Vamos juntos elevar o nível do desenvolvimento! 🚀 🌐
+- 🔥 Desenvolvedor com experiência sólida em:
+  - **SQL** | **Python** | **JavaScript**
+  - **React JS** | **React Native** | **Desenvolvimento Mobile**
+- 🎯 Foco total em criar soluções reais e impactar positivamente com tecnologia.
+- 🎮 Gamer nas horas vagas (porque todo dev precisa de um reset! 😄)
 
-## Rede Sociais:
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/newtondepaulaaraujo-297867256/) [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/newton.araujo/) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/newtonaraujo_of/)
+---
 
-<div>
-<h3>📊 GitHub Stats:</h3>
-  
-![](https://github-readme-stats.vercel.app/api?username=newton-araujo&theme=swift&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=newton-araujo&theme=swift&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=newton-araujo&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🌐 Conecte-se comigo
 
-## 🏆 GitHub 
-![](https://github-profile-trophy.vercel.app/?username=newton-araujo&theme=flat&no-frame=false&no-bg=false&margin-w=4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Newton%20Araujo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/newtondepaulaaraujo-297867256/)  
+[![Instagram](https://img.shields.io/badge/@newtonaraujo_of-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/newtonaraujo_of/)  
+[![Facebook](https://img.shields.io/badge/Facebook-Newton%20Araujo-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/newton.araujo/)
+
+---
+
+## 🚀 Minhas Tecnologias
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Mobile Dev](https://img.shields.io/badge/Mobile_Dev-000000?style=for-the-badge&logo=android&logoColor=white)
+
+---
+
+## 📈 GitHub em Ação
+
+<div align="center">
+
+![Newton's GitHub Stats](https://github-readme-stats.vercel.app/api?username=newton-araujo&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=newton-araujo&theme=tokyonight&hide_border=false)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newton-araujo&layout=compact&theme=tokyonight&hide_border=false)
+
 </div>
 
+---
+
+## 🏆 Troféus do GitHub
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=newton-araujo&theme=algolia&no-bg=false&no-frame=true&margin-w=10" />
+</div>
+
+---
+
+<h3 align="center">🚀 Vamos juntos elevar o nível do desenvolvimento!</h3>
