@@ -1,7 +1,7 @@
 <h1 align="center">👋 Fala aí, eu sou o Newton!</h1>
 
 <p align="center">
-  🚀 Apaixonado por tecnologia, estou cursando<strong>ADS</strong> e sempre em busca de evolução constante no universo do desenvolvimento. <br>
+  🚀 Apaixonado por tecnologia, estou cursando <strong> ADS</strong> e sempre em busca de evolução constante no universo do desenvolvimento. <br>
   💬 Atualmente mergulhado em um <strong>bootcamp da DIO</strong> e aprimorando meu inglês (nível intermediário). <br>
   💡 Fundador do <strong>DevLevelUp</strong>, um espaço dedicado ao crescimento profissional de devs como eu e você!
 </p>
